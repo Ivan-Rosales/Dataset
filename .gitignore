@@ -1,0 +1,4 @@
+images test/*
+*.png
+images test/1/10058.png
+images test/1/10027.png
